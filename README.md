@@ -34,7 +34,7 @@ The data was cleaned and preprocessed on Jupyter Notebook before being used to c
 
 ### Tools
 - Python for Analysis
-- Power Bi for Visualizatiob
+- Power Bi for Visualization
 
 
 ### Data Overview with Python on Jupyter Nootbook.
@@ -111,6 +111,9 @@ Price	4622.0	416.457594	442.872305	3.18	12.1	81.82	777.2075	2034.0
 This image shows the percentage of the most populated neighborhood. the moat populated environment is Can Baro and Ciuta Meridiana having 29.57% each, Canyelles with 27.83%, Baro de Viver with 8.70% and Can Paguera with 4.35%.
 
 4. This image shows the overall average House rent from 2014 to 2022 by Year in (€)
+
+![barcelonaJPG](https://github.com/SalaudeenTaofeek/King-County-Washington-House-/assets/123555622/ee0dd0cc-3e82-4280-b551-2eea2f402848)
+
 
 ### Recommendations
 - Tenants should consider the district, neighborhood, and size of the property when making a decision about where to rent.
